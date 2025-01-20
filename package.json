@@ -1,0 +1,24 @@
+{
+  "name": "ddd",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "tsx": "^4.19.2"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "@hono/zod-validator": "^0.4.2",
+    "hono": "^4.6.16",
+    "pino": "^9.6.0",
+    "pino-lambda": "^4.4.1",
+    "zod": "^3.24.1"
+  }
+}
