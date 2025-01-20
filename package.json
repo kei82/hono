@@ -1,8 +1,7 @@
 {
-  "name": "ddd",
+  "name": "lambda",
   "type": "module",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "exe": "tsx exe.ts",
     "server": "tsx server.ts"
